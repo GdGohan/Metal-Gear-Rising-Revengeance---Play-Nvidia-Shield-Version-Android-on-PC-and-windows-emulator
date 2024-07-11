@@ -19,6 +19,8 @@ Game:
 
 Get the game apk, in classes.dex look for ".obb".
 
+Recommended: v40 version
+
 Copy the game link (main.27...).
 
 Recommended:  MT Manager (Android)
