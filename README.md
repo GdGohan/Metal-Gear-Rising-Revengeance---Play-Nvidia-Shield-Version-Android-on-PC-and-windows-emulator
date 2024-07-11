@@ -23,6 +23,10 @@ Get the game apk, in classes.dex look for ".obb".
 
 Copy the game link (main.27...).
 
+Recommended:  MT Manager (Android)
+
+dex2jar and JD-Gui (Windows)
+
 Extract the file with an iso extractor and
 
 download dlls if necessary
