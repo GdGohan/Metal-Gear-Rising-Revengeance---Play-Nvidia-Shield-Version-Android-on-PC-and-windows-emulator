@@ -1,1 +1,30 @@
 # Metal-Gear-Rising-Revengeance---Play-Nvidia-Shield-Version-Android-on-PC-and-windows-emulator
+
+Nvidia Port: Exagear + Win Game (5GB Version)
+
+
+D3D9:
+
+https://www.reddit.com/r/metalgearrising/comments/100c7cf/mgrr_steam_not_launchingbrief_white_screen_then/
+
+or:
+
+https://github.com/dege-diosg/dgVoodoo2/releases
+
+dlls (optional...):
+
+https://pt.dll-files.com/nv4_disp.dll.html
+
+https://www.dlldownloader.com/mozctl-dll/
+
+Game:
+
+Get the game apk, in classes.dex look for ".obb".
+
+Copy the game link (main.27...).
+
+Extract the file with an iso extractor and
+
+download dlls if necessary
+
+Warning: This version may contain glitchy graphics :(
