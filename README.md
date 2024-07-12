@@ -17,6 +17,18 @@ https://pt.dll-files.com/nv4_disp.dll.html
 
 https://www.dlldownloader.com/mozctl-dll/
 
+
+Fixes:
+
+https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance
+
+C:/User/AppData/Roaming/MGR/SaveData:
+
+Open GraphicOption file with a hex editor.
+
+Set the byte at address 0x24 to 1 for windowed mode, and 0 for fullscreen mode.
+
+
 Game:
 
 Get the game apk, in classes.dex look for ".obb".
