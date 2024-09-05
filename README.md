@@ -20,7 +20,7 @@ https://www.dlldownloader.com/mozctl-dll/
 
 Fixes:
 
-https://archive.org/details/mgrr-fix-glitch-for-tegra-7zip
+https://archive.org/details/disk_20240905
 
 https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance
 
