@@ -20,7 +20,7 @@ https://www.dlldownloader.com/mozctl-dll/
 
 Fixes:
 
-https://archive.org/details/bkp_20240905_202409
+https://archive.org/details/bckps
 
 https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance
 
