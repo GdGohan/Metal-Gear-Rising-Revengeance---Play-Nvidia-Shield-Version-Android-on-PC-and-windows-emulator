@@ -20,7 +20,7 @@ https://www.dlldownloader.com/mozctl-dll/
 
 Fixes:
 
-the pc executable works in this version, you would just have to move the movie folder from the pc version to the GameData folder as well (optional)
+the pc executable version works in this version, you would just have to move the movie folder from the pc version to the GameData folder as well (optional)
 
 https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance
 
