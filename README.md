@@ -17,6 +17,7 @@ https://pt.dll-files.com/nv4_disp.dll.html
 
 https://www.dlldownloader.com/mozctl-dll/
 
+https://pt.dll-files.com/download/ba43e77a5b6c451360dcac576a386f20/ntdll.dll.html?c=M0dua1JXR0lSbWZ5eGtEbVZiVlBFUT09
 
 Fixes:
 
