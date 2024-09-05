@@ -20,7 +20,7 @@ https://www.dlldownloader.com/mozctl-dll/
 
 Fixes:
 
-https://drive.google.com/drive/folders/1N3k3FBWihBX9AEKcWs3Bi5tgbzHxhap4?usp=drive_link (temporary solution, use only in wine (Winlator etc.), the steam_api.dll file will have a false positive of malware (i think), from steamunlocked.net, I do not recommend using in a real windows for safety, but if you are comfortable with this source, that is where it was taken from)
+the pc executable works in this version, you would just have to move the movie folder from the pc version to the GameData folder as well (optional)
 
 https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance
 
