@@ -20,6 +20,8 @@ https://www.dlldownloader.com/mozctl-dll/
 
 Fixes:
 
+https://archive.org/details/mgrr-tegrafix-glitch-without-movies
+
 https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance
 
 C:/User/AppData/Roaming/MGR/SaveData:
