@@ -30,6 +30,17 @@ Open GraphicOption file with a hex editor.
 
 Set the byte at address 0x24 to 1 for windowed mode, and 0 for fullscreen mode.
 
+640x480:
+
+https://youtu.be/VT1tANfp9VY?feature=shared
+
+ANTI-BLOOM SHADER:
+
+https://www.nexusmods.com/metalgearrisingrevengeance/mods/510
+
+Ripper mode effect without screen blur and effect:
+
+https://www.nexusmods.com/metalgearrisingrevengeance/mods/446
 
 Game:
 
