@@ -21,7 +21,9 @@ https://pt.dll-files.com/download/ba43e77a5b6c451360dcac576a386f20/ntdll.dll.htm
 
 Fixes:
 
-the pc executable version works in this version, you would just have to move the movie folder and the executable with its dlls from the pc version to the GameData folder as well (optional)
+the pc executable version works in this version, you would just have to move the executable with its dlls from the pc version to the game folder and the movie folder to the GameData folder as well (optional)
+
+https://drive.google.com/drive/folders/1N3k3FBWihBX9AEKcWs3Bi5tgbzHxhap4
 
 https://www.pcgamingwiki.com/wiki/Metal_Gear_Rising:_Revengeance
 
